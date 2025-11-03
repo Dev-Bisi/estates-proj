@@ -5,8 +5,6 @@ import Caroussels from './components/Caroussels'
 import Testifiers from './components/Testifiers'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
-import Chatbot from './components/Chatbot'
-
 
 
 const App = () => {
@@ -20,7 +18,7 @@ const App = () => {
       <Testifiers />
       <Contact />
       <Footer />
-      <Chatbot/>
+      
     </div>
   )
 }
